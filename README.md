@@ -1,5 +1,5 @@
 # NUS-TIC1001
-Personal Programming Codes at Beginner Level for BTech Software Engineering
+Introuduction to Computing and Programming Sem 1 BTech Software Engineering
 
-Please refrain from copying code by code..
+Feel free to browse thru the codes BUT be warned that the codes may not be 100% correct :)
 
