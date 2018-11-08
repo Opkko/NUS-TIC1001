@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <stdbool.h>
 
 void init_primes(bool primes[], int n) {
     /*int i = 0;
@@ -66,4 +66,8 @@ void print_primes(int n) {
     
 }
 
+
+int main(){
+    return 0;
+}
 
